@@ -1,0 +1,21 @@
+2022-10-12 03:01:00.389 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading objects.yaml from https://raw.githubusercontent.com/QIN2DIM/hcaptcha-challenger/main/src/objects.yaml
+2022-10-12 03:01:00.568 | DEBUG    | hcaptcha_challenger._solutions.kernel:request_assets:133 - Pulling AssetsObject from https://api.github.com/repos/qin2dim/hcaptcha-challenger/releases
+2022-10-12 03:01:00.852 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading yolov6n.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/yolov6n.onnx
+2022-10-12 03:01:02.753 | INFO     | services.deploy:job_loop_claim:126 - >> STARTUP [AwesomeScheduler] SynergyTunnel Pattern: True
+2022-10-12 03:01:02.806 | SUCCESS  | services.bricklayer.core:refresh_ctx_cookies:1221 - >> MATCH [__Context__] 🎮 启动挑战者上下文 - ctx_session=False
+2022-10-12 03:01:03.502 | INFO     | services.utils.toolbox:get_challenge_ctx:127 - Please use `xvfb` to empower the headful Chrome.
+2022-10-12 03:01:03.502 | INFO     | services.utils.toolbox:get_challenge_ctx:128 - CMD: xvfb-run python3 main.py claim
+2022-10-12 03:01:32.095 | DEBUG    | services.bricklayer.core:login:909 - >> MATCH [CookieManager] 实体信息注入完毕
+2022-10-12 03:01:32.183 | DEBUG    | services.bricklayer.core:fall_in_captcha_login:63 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2022-10-12 03:01:34.365 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Get label - label=「海龟」
+2022-10-12 03:01:35.168 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.22s
+2022-10-12 03:01:35.170 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading turtle.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/turtle.onnx
+2022-10-12 03:01:37.044 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Submit the challenge - turtle(ResNet)_model: 0.43s
+2022-10-12 03:01:41.156 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2022-10-12 03:01:41.193 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Get label - label=「海龟」
+2022-10-12 03:01:42.233 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.48s
+2022-10-12 03:01:42.980 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] Submit the challenge - turtle(ResNet)_model: 0.01s
+2022-10-12 03:01:48.146 | DEBUG    | hcaptcha_challenger.core:log:321 - >> Challenge [ArmorCaptcha] 获取响应 - desc=退火成功(success)
+2022-10-12 03:01:48.709 | DEBUG    | services.bricklayer.core:load_ctx_cookies:1157 - >> LOAD [CookieManager] Load context cookie.
+2022-10-12 03:01:49.470 | INFO     | services.deploy:promotions_splitter:294 - >> GET [GameClaimer] 🎮 已在库 - game=『Rising Hell』 url=https://store.epicgames.com/zh-CN/p/rising-hell-253707
+2022-10-12 03:01:49.471 | INFO     | services.deploy:promotions_splitter:294 - >> GET [GameClaimer] 🎮 已在库 - game=『Slain: Back From Hell』 url=https://store.epicgames.com/zh-CN/p/slain-aea303
