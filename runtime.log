@@ -63,3 +63,44 @@
 2022-10-14 05:45:25.184 | DEBUG    | services.bricklayer.game:empty_shopping_payment:98 - [🛵] 重载身份令牌
 2022-10-14 05:45:28.802 | DEBUG    | services.bricklayer.game:empty_shopping_payment:107 - [🛵] 审查购物车状态
 2022-10-14 05:45:33.960 | SUCCESS  | services.bricklayer.game:empty_shopping_payment:117 - >> ADVANCE [GameClaimer] ✔ 购物车已清空
+2022-10-28 05:39:31.556 | INFO     | services.deploy:job_loop_claim:108 - >> STARTUP [AwesomeScheduler] SynergyTunnel Pattern: False
+2022-10-28 05:39:32.724 | INFO     | services.bricklayer.core:refresh_ctx_cookies:676 - >> MATCH [__context__] 🎮启动挑战者上下文
+2022-10-28 05:39:32.785 | INFO     | services.bricklayer.core:login:486 - >> MATCH [CookieManager] 刷新令牌
+2022-10-28 05:39:42.496 | INFO     | services.bricklayer.core:login:517 - >> MATCH [CookieManager] 实体信息注入完毕
+2022-10-28 05:39:42.497 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2022-10-28 05:39:45.031 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Get label - label=「仙人掌」
+2022-10-28 05:39:46.390 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.81s
+2022-10-28 05:39:46.394 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading cactus.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/cactus.onnx
+2022-10-28 05:39:48.945 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Submit the challenge - cactus(ResNet)_model: 0.32s
+2022-10-28 05:39:48.961 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2022-10-28 05:39:48.985 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Get label - label=「仙人掌」
+2022-10-28 05:39:50.209 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.63s
+2022-10-28 05:39:51.980 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Submit the challenge - cactus(ResNet)_model: 0.02s
+2022-10-28 05:39:57.302 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2022-10-28 05:39:57.303 | INFO     | services.bricklayer.core:login:486 - >> MATCH [CookieManager] 刷新令牌
+2022-10-28 05:40:00.976 | INFO     | services.bricklayer.core:login:497 - >> MATCH [CookieManager] 持久化信息未过期
+2022-10-28 05:40:10.096 | INFO     | services.bricklayer.core:load_ctx_cookies:644 - >> LOAD [CookieManager] Load context cookie
+2022-10-28 05:40:10.097 | INFO     | services.explorer.explorer:get_oder_history:216 - 初始化订单数据
+2022-10-28 05:40:10.923 | DEBUG    | services.deploy:promotions_splitter:263 - >> STARTUP [GameClaimer] 🍜 发现周免游戏 - game=『Warhammer 40,000: Mechanicus - Standard Edition』 url=https://store.epicgames.com/zh-CN/p/warhammer-mechanicus-0e4b71
+2022-10-28 05:40:10.923 | DEBUG    | services.deploy:promotions_splitter:263 - >> STARTUP [GameClaimer] 🍜 发现周免游戏 - game=『Saturnalia』 url=https://store.epicgames.com/zh-CN/p/saturnalia
+2022-10-28 05:40:12.010 | DEBUG    | services.bricklayer.game:cart_balancing:69 - >> REMOVE [GameClaimer] 将购物车商品移至愿望清单
+2022-10-28 05:40:19.968 | SUCCESS  | services.bricklayer.core:purchase_status:362 - >> GET [GameClaimer] 🛒 添加至购物车 优惠截止于2022/11/3 10:00 - game=『Warhammer 40,000: Mechanicus - Standard Edition』
+2022-10-28 05:40:20.085 | INFO     | services.bricklayer.core:_activate_payment:463 - [🔖] 已添加商品至购物车
+2022-10-28 05:40:25.311 | SUCCESS  | services.bricklayer.core:purchase_status:362 - >> GET [GameClaimer] 🛒 添加至购物车 优惠截止于2022/11/3 10:00 - game=『Saturnalia』
+2022-10-28 05:40:25.459 | INFO     | services.bricklayer.core:_activate_payment:463 - [🔖] 已添加商品至购物车
+2022-10-28 05:40:27.576 | DEBUG    | services.bricklayer.core:cart_is_empty:521 - [🛵] 审查购物车状态
+2022-10-28 05:40:28.915 | INFO     | services.bricklayer.core:_activate_payment:467 - [🔖] 已激活购物车零元购订单
+2022-10-28 05:40:28.926 | DEBUG    | services.bricklayer.core:cart_handle_payment:547 - [🛵] 处理购物订单...
+2022-10-28 05:40:36.847 | DEBUG    | services.bricklayer.core:cart_handle_payment:551 - [⚔] 捕获隐藏在订单中的人机挑战...
+2022-10-28 05:40:36.894 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Get label - label=「章鱼」
+2022-10-28 05:40:38.119 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.63s
+2022-10-28 05:40:38.347 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading octopus.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/octopus.onnx
+2022-10-28 05:40:41.243 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Submit the challenge - octopus(ResNet)_model: 1.32s
+2022-10-28 05:40:41.265 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2022-10-28 05:40:41.294 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Get label - label=「章鱼」
+2022-10-28 05:40:42.561 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.67s
+2022-10-28 05:40:45.051 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] Submit the challenge - octopus(ResNet)_model: 0.7s
+2022-10-28 05:40:49.694 | DEBUG    | hcaptcha_challenger.core:log:323 - >> Challenge [ArmorCaptcha] 获取响应 - desc=退火成功(success)
+2022-10-28 05:40:49.950 | DEBUG    | services.bricklayer.core:cart_handle_payment:553 - [🌀] 弹出内联订单框架...
+2022-10-28 05:40:51.470 | DEBUG    | services.bricklayer.core:cart_is_empty:521 - [🛵] 审查购物车状态
+2022-10-28 05:40:51.964 | SUCCESS  | services.bricklayer.game:empty_shopping_payment:81 - ADVANCE [GameClaimer] ✔ 购物车已清空
