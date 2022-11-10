@@ -120,3 +120,26 @@
 2022-11-04 05:34:51.799 | INFO     | services.bricklayer.core:purchase_status:362 - >> GET [GameClaimer] 🛴 游戏已在库 - game=『Filament』
 2022-11-04 05:34:53.343 | DEBUG    | services.bricklayer.core:cart_is_empty:537 - [🛵] 审查购物车状态
 2022-11-04 05:34:53.854 | SUCCESS  | services.bricklayer.game:empty_shopping_payment:84 - ADVANCE [GameClaimer] ✔ 购物车已清空
+2022-11-11 05:38:41.011 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2022-11-11 05:38:42.028 | INFO     | services.bricklayer.core:refresh_ctx_cookies:673 - >> MATCH [__context__] 🎮启动挑战者上下文
+2022-11-11 05:38:42.079 | INFO     | services.bricklayer.core:login:481 - >> MATCH [CookieManager] 刷新令牌
+2022-11-11 05:38:44.472 | INFO     | services.bricklayer.core:login:494 - >> MATCH [CookieManager] 持久化信息未过期
+2022-11-11 05:38:46.209 | INFO     | services.bricklayer.core:load_ctx_cookies:641 - >> LOAD [CookieManager] Load context cookie
+2022-11-11 05:38:46.211 | INFO     | services.explorer.explorer:load_memory:195 - 加载历史订单数据 本地缓存119小时有效
+2022-11-11 05:38:46.366 | DEBUG    | services.deploy:preload:391 - >> Checkout [GameClaimer] Shadow Tactics:Blades of the Shogun - state=待认领 link=https://store.epicgames.com/zh-CN/p/shadow-tactics
+2022-11-11 05:38:46.369 | DEBUG    | services.deploy:preload:391 - >> Checkout [GameClaimer] Alba - A Wildlife Adventure - state=待认领 link=https://store.epicgames.com/zh-CN/p/alba-a-wildlife-adventure-93736a
+2022-11-11 05:38:54.279 | DEBUG    | services.bricklayer.game:purchase_status:113 - >> Checkout [GameClaimer] Shadow Tactics:Blades of the Shogun - state=获取 link=https://store.epicgames.com/zh-CN/p/shadow-tactics
+2022-11-11 05:38:54.933 | INFO     | services.bricklayer.game:get_free_game:152 - [🔖] 已激活商品页零元购订单
+2022-11-11 05:38:55.019 | DEBUG    | services.bricklayer.core:cart_handle_payment:544 - [🛵] 处理购物订单...
+2022-11-11 05:39:04.155 | DEBUG    | services.bricklayer.core:cart_handle_payment:548 - [⚔] 捕获隐藏在订单中的人机挑战...
+2022-11-11 05:39:04.205 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Get label - label=「柠檬」
+2022-11-11 05:39:05.859 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.82s
+2022-11-11 05:39:05.882 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:307 - Downloading lemon.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/lemon.onnx
+2022-11-11 05:39:08.085 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Submit the challenge - lemon(ResNet)_model: 0.18s
+2022-11-11 05:39:08.111 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2022-11-11 05:39:10.139 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Get label - label=「柠檬」
+2022-11-11 05:39:11.122 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.49s
+2022-11-11 05:39:13.134 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Submit the challenge - lemon(ResNet)_model: 0.01s
+2022-11-11 05:39:17.938 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 获取响应 - desc=退火成功(success)
+2022-11-11 05:39:18.645 | DEBUG    | services.bricklayer.core:cart_handle_payment:550 - [🌀] 弹出内联订单框架...
+2022-11-11 05:39:26.239 | DEBUG    | services.bricklayer.game:purchase_status:113 - >> Checkout [GameClaimer] Shadow Tactics:Blades of the Shogun - state=已在库中 link=https://store.epicgames.com/zh-CN/p/shadow-tactics
