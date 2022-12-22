@@ -1,3 +1,3 @@
-2022/12/16-05:35:14.758 7bb Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/12/16-05:35:14.758 7bb Recovering log #3
-2022/12/16-05:35:14.758 7bb Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Sync Data/LevelDB/000003.log 
+2022/12/23-05:35:02.969 80f Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/12/23-05:35:02.969 80f Recovering log #3
+2022/12/23-05:35:02.969 80f Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Sync Data/LevelDB/000003.log 
