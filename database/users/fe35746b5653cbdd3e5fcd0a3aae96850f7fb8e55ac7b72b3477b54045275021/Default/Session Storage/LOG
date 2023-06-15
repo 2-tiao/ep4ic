@@ -1,13 +1,5 @@
-2023/06/09-05:35:23.233 7f9 Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/MANIFEST-000001
-2023/06/09-05:35:23.233 7f9 Recovering log #4
-2023/06/09-05:35:23.234 7f9 Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/000004.log 
-2023/06/09-05:35:23.234 7f9 Delete type=0 #3
-2023/06/09-05:43:53.101 d57 Level-0 table #8: started
-2023/06/09-05:43:53.103 d57 Level-0 table #8: 7401 bytes OK
-2023/06/09-05:43:53.104 d57 Delete type=0 #4
-2023/06/09-05:53:46.021 e1b Level-0 table #10: started
-2023/06/09-05:53:46.022 e1b Level-0 table #10: 9541 bytes OK
-2023/06/09-05:53:46.024 e1b Delete type=0 #7
-2023/06/09-05:54:58.252 e1b Level-0 table #12: started
-2023/06/09-05:54:58.261 e1b Level-0 table #12: 6920 bytes OK
-2023/06/09-05:54:58.263 e1b Delete type=0 #9
+2023/06/16-05:34:54.514 801 Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/MANIFEST-000001
+2023/06/16-05:34:54.514 801 Recovering log #11
+2023/06/16-05:34:54.515 801 Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/000011.log 
+2023/06/16-05:34:54.515 801 Delete type=0 #4
+2023/06/16-05:34:54.515 801 Delete type=0 #3
