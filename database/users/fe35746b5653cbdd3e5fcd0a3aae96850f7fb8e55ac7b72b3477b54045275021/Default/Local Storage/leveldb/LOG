@@ -1,7 +1,5 @@
-2023/07/21-05:35:06.594 837 Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/21-05:35:06.597 837 Recovering log #10
-2023/07/21-05:35:06.598 837 Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/000010.log 
-2023/07/21-05:35:06.599 837 Delete type=0 #3
-2023/07/21-05:44:14.937 837 Level-0 table #14: started
-2023/07/21-05:44:14.939 837 Level-0 table #14: 7181 bytes OK
-2023/07/21-05:44:14.940 837 Delete type=0 #10
+2023/07/28-05:35:26.641 86b Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-05:35:26.642 86b Recovering log #13
+2023/07/28-05:35:26.643 86b Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/000013.log 
+2023/07/28-05:35:26.643 86b Delete type=0 #10
+2023/07/28-05:35:26.643 86b Delete type=0 #3
