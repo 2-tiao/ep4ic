@@ -1,7 +1,21 @@
-2023/07/28-05:35:26.696 86b Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/MANIFEST-000001
-2023/07/28-05:35:26.697 86b Recovering log #11
-2023/07/28-05:35:26.698 86b Level-0 table #14: started
-2023/07/28-05:35:26.715 86b Level-0 table #14: 8042 bytes OK
-2023/07/28-05:35:26.731 86b Delete type=0 #11
-2023/07/28-05:35:26.731 86b Delete type=0 #4
-2023/07/28-05:35:26.731 86b Delete type=0 #3
+2023/08/04-05:35:03.791 853 Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/MANIFEST-000001
+2023/08/04-05:35:03.792 853 Recovering log #15
+2023/08/04-05:35:03.792 853 Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Session Storage/000015.log 
+2023/08/04-05:35:03.801 853 Delete type=0 #3
+2023/08/04-05:35:03.801 853 Delete type=0 #11
+2023/08/04-05:35:03.801 853 Delete type=0 #4
+2023/08/04-05:50:28.935 100d Level-0 table #18: started
+2023/08/04-05:50:28.937 100d Level-0 table #18: 7214 bytes OK
+2023/08/04-05:50:28.938 100d Delete type=0 #15
+2023/08/04-05:50:28.938 100d Compacting 4@0 + 1@1 files
+2023/08/04-05:50:28.941 100d Generated table #19@0: 1097 keys, 8864 bytes
+2023/08/04-05:50:28.941 100d Compacted 4@0 + 1@1 files => 8864 bytes
+2023/08/04-05:50:28.941 100d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/04-05:50:28.942 100d Delete type=2 #10
+2023/08/04-05:50:28.942 100d Delete type=2 #14
+2023/08/04-05:50:28.942 100d Delete type=2 #18
+2023/08/04-05:50:28.942 100d Delete type=2 #8
+2023/08/04-05:50:28.942 100d Delete type=2 #12
+2023/08/04-05:58:14.449 100d Level-0 table #21: started
+2023/08/04-05:58:14.451 100d Level-0 table #21: 6912 bytes OK
+2023/08/04-05:58:14.456 100d Delete type=0 #17

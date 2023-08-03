@@ -1,5 +1,20 @@
-2023/07/28-05:35:26.641 86b Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/28-05:35:26.642 86b Recovering log #13
-2023/07/28-05:35:26.643 86b Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/000013.log 
-2023/07/28-05:35:26.643 86b Delete type=0 #10
-2023/07/28-05:35:26.643 86b Delete type=0 #3
+2023/08/04-05:35:03.639 853 Reusing MANIFEST /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/04-05:35:03.640 853 Recovering log #13
+2023/08/04-05:35:03.640 853 Reusing old log /home/runner/work/ep4ic/ep4ic/epic/src/database/users/fe35746b5653cbdd3e5fcd0a3aae96850f7fb8e55ac7b72b3477b54045275021/Default/Local Storage/leveldb/000013.log 
+2023/08/04-05:35:03.640 853 Delete type=0 #10
+2023/08/04-05:35:03.640 853 Delete type=0 #3
+2023/08/04-05:44:09.663 853 Level-0 table #17: started
+2023/08/04-05:44:09.665 853 Level-0 table #17: 7008 bytes OK
+2023/08/04-05:44:09.666 853 Delete type=0 #13
+2023/08/04-05:44:09.666 853 Compacting 4@0 + 1@1 files
+2023/08/04-05:44:09.668 853 Generated table #18@0: 525 keys, 4068 bytes
+2023/08/04-05:44:09.668 853 Compacted 4@0 + 1@1 files => 4068 bytes
+2023/08/04-05:44:09.669 853 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/04-05:44:09.670 853 Delete type=2 #7
+2023/08/04-05:44:09.670 853 Delete type=2 #17
+2023/08/04-05:44:09.670 853 Delete type=2 #9
+2023/08/04-05:44:09.670 853 Delete type=2 #11
+2023/08/04-05:44:09.670 853 Delete type=2 #14
+2023/08/04-05:53:09.663 100d Level-0 table #20: started
+2023/08/04-05:53:09.665 100d Level-0 table #20: 7024 bytes OK
+2023/08/04-05:53:09.666 100d Delete type=0 #16
